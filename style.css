@@ -68,6 +68,18 @@ html,body{
     background: #699ebe;
 }
 
+.wrapper .button:nth-child(7):hover .icon{
+    background: #707f89;
+}
+
+.wrapper .button:nth-child(8):hover .icon{
+    background: #52ef33;
+}
+
+.wrapper .button:nth-child(9):hover .icon{
+    background: #2309b7;
+}
+
 .wrapper .button .icon i{
     font-size: 25px;
     line-height: 60px;
@@ -107,4 +119,16 @@ html,body{
 
 .wrapper .button:nth-child(6):hover span    {
     color: #699ebe;
+}
+
+.wrapper .button:nth-child(7):hover span    {
+    color: #707f89;
+}
+
+.wrapper .button:nth-child(8):hover span    {
+    color: #52ef33;
+}
+
+.wrapper .button:nth-child(9):hover span    {
+    color: #2309b7;
 }
