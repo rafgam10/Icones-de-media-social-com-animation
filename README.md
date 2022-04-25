@@ -9,3 +9,7 @@ O Canal que eu peguei o Projeto: https://www.youtube.com/watch?v=yU3giDe-N6c
 # 24/04/2022 Modificação
 
 Coloquei mais algumas coisas como telefone, zap e etc.
+
+# 24/04/2022 Modificação
+
+Mudei a cor de fundo.

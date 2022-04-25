@@ -12,7 +12,7 @@ html,body{
     height: 100%;
     width: 100%;
     place-items: center;
-    background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+    background: linear-gradient(315deg, #7b6f6f 0%, #404142 74%);
 }
 
 .wrapper .button{
